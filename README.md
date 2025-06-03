@@ -5,6 +5,7 @@ Project Requirement Checklist
  Displays one question at a time.
  Shows current question number.
  Responsive design for all screen sizes.
+ Minimal UI to avoid distractions while doing quiz.
 # Core Functionality
  Questions and options stored in arrays/objects.
  One correct answer per question.
